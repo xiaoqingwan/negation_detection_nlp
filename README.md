@@ -1,6 +1,6 @@
 # negation_detection_nlp
 
-YouTube Walkthrough:
+YouTube tutorial:
 
 Failure to detect negations leads to poor performance in natural language processing (NLP). 
 
